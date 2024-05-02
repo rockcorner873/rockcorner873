@@ -1,0 +1,17 @@
+Engine/Binaries/Win64/D3D12/D3D12Core.dll	2023-11-02T05:42:16.657Z
+Engine/Binaries/Win64/OpenImageDenoise.dll	2023-11-02T05:42:20.178Z
+Engine/Binaries/Win64/tbb.dll	2023-11-02T05:42:21.842Z
+Engine/Binaries/Win64/tbb12.dll	2023-11-02T05:42:21.866Z
+Engine/Binaries/Win64/tbbmalloc.dll	2023-11-02T05:42:21.867Z
+Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2023-11-02T05:42:36.627Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-11-02T05:44:00.654Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-11-02T05:41:50.864Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-11-02T05:42:11.476Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-11-02T05:42:11.494Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-11-02T05:42:11.516Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-11-02T05:42:15.447Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-11-02T05:42:15.447Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-11-02T05:42:15.559Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-11-02T05:43:12.238Z
+NIKE/Content/Movies/LED CURVE.mp4	2024-05-01T11:04:58.618Z
+NIKE.exe	2024-05-02T10:56:16.363Z
